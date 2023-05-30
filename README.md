@@ -1,4 +1,4 @@
-# `🧿 𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝 🔮`
+# `🧿 KᒪEᐯEᖇ﴾ᗷOT﴿𖥖 🔮`
 
 ### `—◉ 🔗 CUENTAS OFICIALES 🔗`
 
@@ -144,4 +144,4 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ## `EDITOR & PROPIETARIO DEL BOT` 
 <a href="https://github.com/BrunoSobrino"><img src="https://github.com/BrunoSobrino.png" width="250" height="250" alt="BrunoSobrino"/></a>
   
-`TheMystic-Bot-MD - By Bruno Sobrino`
+`TheMystic-Bot-MD - By Mahmoudᴷᴸᴱᵛᴱᴿ`
