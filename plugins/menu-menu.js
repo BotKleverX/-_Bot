@@ -19,14 +19,13 @@ let readMore = more.repeat(850)
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `
 ╭═══〘 ✯✯✯✯✯✯✯✯✯ 〙══╮
-║    ◉— *𝐓𝐡𝐞 𝐌𝐲𝐬𝐭𝐢𝐜 - 𝐁𝐨𝐭* —◉
+║    ◉— *˚₊· ͟͟͞͞➳❥❬ 𝒌𝒍𝒆𝒗𝒆𝒓﴾𝒃𝒐𝒕﴿ ❭•* —◉
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
 ║➤ *𝗛ola, ${taguser}*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
-║➤ *Owner:* Bruno Sobrino
-║➤ *Numero:* wa.me/5219992095479
-║➤ *Bot ofc:* wa.me/5219991402134
-║➤ *PayPal:* https://www.paypal.me/TheShadowBrokers133
+║➤ *Owner:* Mahmoudᴷᴸᴱᵛᴱᴿ
+║➤ *Numero:* wa.me/201016948771
+║➤ *Bot ofc:* wa.me/201225655220
 ║➤ *Fecha:* ${date}
 ║➤ *Tiempo activo:* ${uptime}
 ║➤ *Usuarios:* ${rtotalreg}
@@ -53,13 +52,11 @@ ${readMore}
 ┏━━━━━━━━━━━━━━━━┓
 ┃ *< 𝕀ℕ𝔽𝕆 𝔹𝕆𝕋 />*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡┃
-┣ ඬ⃟ 💟 _${usedPrefix}terminosycondiciones_
-┣ ඬ⃟ 💟 _${usedPrefix}grupos_
 ┣ ඬ⃟ 💟 _${usedPrefix}estado_
 ┣ ඬ⃟ 💟 _${usedPrefix}infobot_
 ┣ ඬ⃟ 💟 _${usedPrefix}speedtest_
 ┣ ඬ⃟ 💟 _${usedPrefix}donar_
-┣ ඬ⃟ 💟 _${usedPrefix}grouplist_
+┣ ඬ⃟ 💟 _${usedPrefix}رومات-البوت_
 ┣ ඬ⃟ 💟 _${usedPrefix}owner_
 ┣ ඬ⃟ 💟 _${usedPrefix}script_
 ┣ ඬ⃟ 💟 _${usedPrefix}listprem_
